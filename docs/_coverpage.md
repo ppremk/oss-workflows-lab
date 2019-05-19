@@ -4,7 +4,7 @@
 
 <!-- background image -->
 
-![](./img/cover.png ':no-zoom')
+![](./img/cover.png ':size=40%')
 
 <!-- background color -->
 
