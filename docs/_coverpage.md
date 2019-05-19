@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](./img/GitHub-Satellite-Icon.svg ':size=200%')
+![logo](./img/GitHub-Satellite-Icon.svg ':size=150%')
 
 [English](./README)
 
