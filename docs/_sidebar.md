@@ -12,10 +12,10 @@
   * [<Enterprise's> OS Manifesto]()
   * [<Enterprise's> OS ROI]()
 
-* How to (Empower) Open Source Workflows for <Enterprise>
-  * [Using Open source Software]()
-  * [Contributing to Open source Software]()
-  * [Launching Open source Software]()
+* Guideline (Empower) Open Source Workflows for <Enterprise>
+  * [Using Open source Software in <Enterprise>]()
+  * [Contributing to Open source Software in <Enterprise>]()
+  * [Launching Open source Software in <Enterprise>]()
 
 * Monitoring Open Source Initiatives
   * [<Enterprise's> OSPO Toolset]()
