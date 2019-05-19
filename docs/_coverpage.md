@@ -4,4 +4,4 @@
 
 [English](./README)
 
-![color](#1b1d2a)
+![color](#f6f8fa)
