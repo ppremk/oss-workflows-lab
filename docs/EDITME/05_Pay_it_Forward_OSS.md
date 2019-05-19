@@ -1,16 +1,16 @@
 # Partnerships
 
- - <Insert notes here>
+ - <Insert notes here >
 
 
 # <Enterprise's> Open source journey - Case study
 
-- <Insert notes here>
+- <Insert notes here >
 
 
 # <Enterprise's> Social Presence
 
- - <Insert notes here>
+ - <Insert notes here >
 
  
 # Further Reading

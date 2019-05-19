@@ -1,21 +1,21 @@
 # Why?
 
- - <Insert notes here>
+ - <Insert notes here >
 
 
 # OSPO - The Role and Responsibility
 
-- <Insert notes here>
+- <Insert notes here >
 
 
 # Potential Structure of OSPO
 
- - <Insert notes here>
+ - <Insert notes here >
  
 
 # Management and the OSPO
  
- - <Insert notes here>
+ - <Insert notes here >
  
  
 

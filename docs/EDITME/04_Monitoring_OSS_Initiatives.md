@@ -1,11 +1,11 @@
 # Toolset
 
- - <Insert notes here>
+ - <Insert notes here >
 
 
 # Metrics
 
-- <Insert notes here>
+- <Insert notes here >
 
 
 # Further Reading
