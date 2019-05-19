@@ -17,8 +17,8 @@
 
 * Appendix
   * **GitHub Resources**
-    * []()
-   * **Reading Lists**
+    * [GitHub Open Source Guide](https://opensource.guide/)
+  * **Reading Lists**
     * [The Apache Software Foundation](https://www.apache.org/)
     * [The Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/)
     * [TODO Group](https://todogroup.org/)
