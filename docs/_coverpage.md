@@ -4,6 +4,6 @@
 
 [English](./EDITME/01_Establishing_OSPO.md)
 
-![](./img/cover.png ':no-zoom')
+![](./img/Github-Satellite-Icon.svg ':size=150%')
 
 ![color](#f6f8fa)
