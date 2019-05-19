@@ -1,59 +1,26 @@
-* [Home](/)
+* [Home](README.md)
 
 * Establishing Open Source Programs Office (OSPO)
-  * [Why?]()
-  * [<Enterprise's> OSPO]()
-  * [<Enterprise's> OSPO Structure]()
-  * [<Enterprise's> Management and OPSO]()
+  * [<Enterprise's> OSPO](01_Establishing_OSPO.md)
 
 * Define Open Source Strategy
-  * [Maturity Assesment]()
-  * [<Enterprise's> OS Strategy]()
-  * [<Enterprise's> OS Manifesto]()
-  * [<Enterprise's> OS ROI]()
+  * [<Enterprise's> OSS Strategy](02_Define_OSS_Strategy.md)
 
-* Guideline (Empower) Open Source Workflows for <Enterprise>
-  * [Using Open source Software in <Enterprise'>]()
-  * [Contributing to Open source Software in <Enterprise'>]()
-  * [Launching Open source Software in <Enterprise'>]()
+* Open Source Workflows for <Enterprise>
+  * [Guidelines for Open source activities in <Enterprise'>](03_OSS_Workflows.md)
 
 * Monitoring Open Source Initiatives
-  * [<Enterprise's> OSPO Toolset]()
-  * [<Enterprise's> OS Metrics]()
+  * [<Enterprise's> OSPO Toolset and Metrics](04_Monitoring_OSS_Initiatives.md)
 
 * Paying it Forward Open Source Community
-  * [Partnerships]()
-  * [<Enterprise's> OS Journey]()
-  * [<Enterprise's> OS Social Presence]()s
+  * [<Enterprise's> OSS Case Study](05_Pay_it_Forward_OSS.md)
 
 * Appendix
   * **GitHub Resources**
     * []()
-  * **Tool tips**
-    * [How to Generate Jekyll Sites Locally](app_how_to_generate_locally.md)
-  * **TODO Group**
-    * []()
-  * **CHAOSS Metrics**
-    * []()
-  * **The Linux Foundation**
-    * []()
+   * **Reading Lists**
+    * [The Apache Software Foundation](https://www.apache.org/)
+    * [The Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/)
+    * [TODO Group](https://todogroup.org/)
+    * [CHAOSS](https://chaoss.community/)
 
-
-
-* [README](README.md "Open Source Workflow for Enterprises Guide")
-* [Benefits of OSS for Enteprise](Benefits-of-OSS-for-Enterprise.md)
-* [Establishing Open Source Program Office](Establishing-OSPO.md)
-* [Defining Open Source Stragegy](Define-OSS-strategy-Enterprise.md)
-* [Open source Workflow - Using OSS](OSS-Workflow-Using.md)
-* [Open source Workflow - Contributing](OSS-Workflow-Contributing.md)
-* [Open source Workflow - Launching](OSS-Workflow-Launching.md)
-* [Monitoring Open source Projects](Monitor-OSS-Projects.md)
-* [Paying it Forward](Paying-it-Forward.md)
-* [Reading List](Reading-List.md)
-
-
-
-
-* Open Source for <Enterprise>
-  * []()
-  * []()
