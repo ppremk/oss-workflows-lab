@@ -1,9 +1,9 @@
 <!-- _coverpage.md -->
 
-![logo](./img/GitHub-Satellite-Icon.svg)
+![logo](./img/cover.png ':no-zoom')
 
 # [Open Source workflows for Enteprises](./EDITME/01_Establishing_OSPO.md)
 
-[English](./README)
+[English](./README.md)
 
-![color](#1b1d2a)
+![color](#f6f8fa)
