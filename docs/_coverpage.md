@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](./img/GitHub-Satellite-Icon.svg)
+![logo](./img/GitHub-Satellite-Icon.svg ':size=10%')
 
 # [Open Source Workflows for Enterprises]()
 
