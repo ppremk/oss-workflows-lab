@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](./img/GitHub-Satellite-Icon.svg 'no-zoom')
+![logo](./img/GitHub-Satellite-Icon.svg)
 
-# [The Official GitHub Training Manual](./EDITME/01_Establishing_OSPO.md)
+# [Open Source workflows for Enteprises](./EDITME/01_Establishing_OSPO.md)
 
 [English](./README)
 
