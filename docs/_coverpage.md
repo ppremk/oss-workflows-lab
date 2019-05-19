@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](./img/Satellite-Icon.png)
+![logo](./img/Satellite-Icon.png ':size=60%')
 
 [English](./README)
 
