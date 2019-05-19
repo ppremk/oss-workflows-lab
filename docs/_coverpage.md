@@ -1,5 +1,5 @@
 <!-- _coverpage.md -->
 
-![logo](./img/Satellite-Icon.png ':size=80%')
+![logo](./img/Satellite-Icon.png)
 
 [English](./README)
