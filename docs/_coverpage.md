@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](./img/GitHub-Satellite-Icon.svg ':no-zoom')
+![logo](./img/GitHub-Satellite-Icon.svg)
 
 # [Open Source Workflows for Enterprises]()
 
-[English](01_getting_ready_for_class)
+[English](/)
 [PDF](book.pdf)
 
 ![color](#f6f8fa)
