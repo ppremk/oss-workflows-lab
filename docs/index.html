@@ -11,12 +11,22 @@
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-      name: '',
+    window.$docsify = {    
+      search: `auto`,
+      auto2top: true,
+      name: 'Open Source Workflows for Enterprises',
       repo: '',
-      loadSidebar: true
+      loadSidebar: true,
+      coverpage: true,
+      onlyCover: true
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-git.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
