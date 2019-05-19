@@ -7,4 +7,4 @@
 [English](/)
 [PDF](book.pdf)
 
-![color](#f6f8fa)
+![color](#1b1d2a)
