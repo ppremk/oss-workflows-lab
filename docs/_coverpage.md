@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![](./img/cover.png ':size=40%')
+![](./img/cover.png ':no-zoom')
 
 # [Open Source Workflows for Enterprises](./README.md)
 
