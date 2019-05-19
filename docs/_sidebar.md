@@ -13,9 +13,9 @@
   * [<Enterprise's> OS ROI]()
 
 * Guideline (Empower) Open Source Workflows for <Enterprise>
-  * [Using Open source Software in <Enterprise>]()
-  * [Contributing to Open source Software in <Enterprise>]()
-  * [Launching Open source Software in <Enterprise>]()
+  * [Using Open source Software in <Enterprise'>]()
+  * [Contributing to Open source Software in <Enterprise'>]()
+  * [Launching Open source Software in <Enterprise'>]()
 
 * Monitoring Open Source Initiatives
   * [<Enterprise's> OSPO Toolset]()
@@ -24,7 +24,7 @@
 * Paying it Forward Open Source Community
   * [Partnerships]()
   * [<Enterprise's> OS Journey]()
-  * [<Enterprise's> OS Social Presence]()
+  * [<Enterprise's> OS Social Presence]()s
 
 * Appendix
   * **GitHub Resources**
