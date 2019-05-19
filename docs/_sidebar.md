@@ -1,21 +1,4 @@
 * [Home](/)
-* [README](README.md "Open Source Workflow for Enterprises Guide")
-* [Benefits of OSS for Enteprise](Benefits-of-OSS-for-Enterprise.md)
-* [Establishing Open Source Program Office](Establishing-OSPO.md)
-* [Defining Open Source Stragegy](Define-OSS-strategy-Enterprise.md)
-* [Open source Workflow - Using OSS](OSS-Workflow-Using.md)
-* [Open source Workflow - Contributing](OSS-Workflow-Contributing.md)
-* [Open source Workflow - Launching](OSS-Workflow-Launching.md)
-* [Monitoring Open source Projects](Monitor-OSS-Projects.md)
-* [Paying it Forward](Paying-it-Forward.md)
-* [Reading List](Reading-List.md)
-
-
-
-
-* Open Source for <Enterprise>
-  * []()
-  * []()
 
 * Establishing Open Source Programs Office (OSPO)
   * [Why?]()
@@ -54,3 +37,23 @@
     * []()
   * **The Linux Foundation**
     * []()
+
+
+
+* [README](README.md "Open Source Workflow for Enterprises Guide")
+* [Benefits of OSS for Enteprise](Benefits-of-OSS-for-Enterprise.md)
+* [Establishing Open Source Program Office](Establishing-OSPO.md)
+* [Defining Open Source Stragegy](Define-OSS-strategy-Enterprise.md)
+* [Open source Workflow - Using OSS](OSS-Workflow-Using.md)
+* [Open source Workflow - Contributing](OSS-Workflow-Contributing.md)
+* [Open source Workflow - Launching](OSS-Workflow-Launching.md)
+* [Monitoring Open source Projects](Monitor-OSS-Projects.md)
+* [Paying it Forward](Paying-it-Forward.md)
+* [Reading List](Reading-List.md)
+
+
+
+
+* Open Source for <Enterprise>
+  * []()
+  * []()
